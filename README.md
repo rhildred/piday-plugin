@@ -1,2 +1,2 @@
-# weather_plugin
-A really simple Wordpress weather plugin for a student.
+# Days Till Pi Day
+A really simple Wordpress plugin.
